@@ -1,4 +1,4 @@
-# busmore Android Application for University of phayao
+# Busmore Android Application for University of phayao
 
 ### Welcome screen Chose between passengers and driver
 ![Imgur](https://i.imgur.com/YFUgOvH.jpg)
